@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.chrome-qa*/
+.chrome-plan*/
+*.log
+dashboard-desktop.png
+dashboard-mobile.png
+money-plan-*.png
+.DS_Store
+
+.vercel-npm-cache/
+node_modules/

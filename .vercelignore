@@ -1,0 +1,16 @@
+node_modules
+dist
+coverage
+.git
+.codex
+.agents
+.vercel
+*.zip
+*.log
+mobile-audit-*.png
+workspace-*-review.png
+money-plan-*.png
+dashboard-*.png
+src/**/*.test.ts
+src/**/*.test.tsx
+src/test
